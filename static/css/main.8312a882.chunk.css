@@ -1,0 +1,2 @@
+*{box-sizing:border-box}html{font-family:Tahoma,Verdana,sans-serif}body{margin:20px}h2,h3,h4,li,p,ul{margin:0}.email{display:block;padding-top:10px}.comment-list{margin:0;padding:0;list-style:none}.comment-list__item{padding:10px;margin-bottom:10px;border-radius:20px;border:solid #add8e6}.user{margin:10px}.post-list,.user{display:flex;grid-gap:20px;gap:20px}.post-list{flex-direction:column;list-style:none}.post-list__item{padding:0 20px;border-radius:10px;border:1px solid #000}
+/*# sourceMappingURL=main.8312a882.chunk.css.map */
